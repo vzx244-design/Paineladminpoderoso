@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vzx244-design/Paineladminpoderoso/refs/heads/main/PAIMEL%20ADMIN%20BY%20LUIS"))()
 
 
 
@@ -116,7 +117,7 @@ Tab1:AddParagraph({"Painel de Admin:", "Clique no botão abaixo para abrir"})
 Tab1:AddButton({
     Name = "Abrir Painel de Admin somente para administradores!",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/vzx244-design/PoderosohubByLuis/refs/heads/main/Painel%20admin"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vzx244-design/Paineladminpoderoso/refs/heads/main/PAIMEL%20ADMIN%20BY%20LUIS"))()
     end
 })
 
@@ -4927,4 +4928,5 @@ Tab10:AddButton({
             end
         end
     end
+
 })
